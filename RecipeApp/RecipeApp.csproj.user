@@ -7,10 +7,31 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="ClearRecipe.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Display.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="EnterRecipe.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="IngredientDetails.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="resetRecipe.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Scale.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Search.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SearchByFoodGroup.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SearchByMaxCalories.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="StepsDetails.xaml.cs">
@@ -18,6 +39,12 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="ClearRecipe.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Display.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="EnterRecipe.xaml">
       <SubType>Designer</SubType>
     </Page>
@@ -25,6 +52,21 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="resetRecipe.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Scale.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Search.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SearchByFoodGroup.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SearchByMaxCalories.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="StepsDetails.xaml">

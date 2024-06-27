@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Hamza\Source\Repos\RecipeAppPOE\RecipeApp\obj\Debug\net8.0-windows\
+C:\Users\Hamza\source\repos\RecipeAppPOE\RecipeApp\obj\Debug\net8.0-windows\
 RecipeApp
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\Hamza\Source\Repos\RecipeAppPOE\RecipeApp\App.xaml
-4-1427413084
+C:\Users\Hamza\source\repos\RecipeAppPOE\RecipeApp\App.xaml
+11158404864
 
-101969384790
+17-2121103770
 198915248976
-EnterRecipe.xaml;IngredientDetails.xaml;MainWindow.xaml;StepsDetails.xaml;
+ClearRecipe.xaml;Display.xaml;EnterRecipe.xaml;IngredientDetails.xaml;MainWindow.xaml;resetRecipe.xaml;Scale.xaml;Search.xaml;SearchByFoodGroup.xaml;SearchByMaxCalories.xaml;StepsDetails.xaml;
 
 False
 

@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\enterrecipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\enterrecipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|c:\\users\\hamza\\source\\repos\\recipeapppoe\\recipeapp\\stepsdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\stepsdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\stepsdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|c:\\users\\hamza\\source\\repos\\recipeapppoe\\recipeapp\\ingredientdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\ingredientdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\searchbyfoodgroup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\searchbyfoodgroup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|c:\\users\\hamza\\source\\repos\\recipeapppoe\\recipeapp\\search.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\search.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\scale.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\scale.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\resetrecipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\resetrecipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\resetrecipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\resetrecipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\recipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\recipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|c:\\users\\hamza\\source\\repos\\recipeapppoe\\recipeapp\\stepsdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\stepsdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\ingredientdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\ingredientdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -39,16 +43,64 @@
       "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\ingredientdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\ingredientdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\ingredientdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\ingredientdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\enterrecipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\enterrecipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\display.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\display.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\display.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\display.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\clearrecipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\clearrecipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\clearrecipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\clearrecipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\stepsdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\stepsdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\search.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\search.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\scale.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\scale.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\searchbymaxcalories.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\searchbymaxcalories.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\searchbyfoodgroup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\searchbyfoodgroup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\searchbymaxcalories.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\searchbymaxcalories.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\enterrecipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\enterrecipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCAB85B6-9A94-4636-A050-C0CC957F2D1E}|RecipeApp\\RecipeApp.csproj|C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\recipeapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -62,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,166 +122,328 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StepsDetails.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\StepsDetails.xaml.cs",
-              "RelativeDocumentMoniker": "RecipeApp\\StepsDetails.xaml.cs",
-              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\StepsDetails.xaml.cs",
-              "RelativeToolTip": "RecipeApp\\StepsDetails.xaml.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAswCQAAAA6AAAA",
+              "DocumentIndex": 20,
+              "Title": "SearchByMaxCalories.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\SearchByMaxCalories.xaml.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\SearchByMaxCalories.xaml.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\SearchByMaxCalories.xaml.cs",
+              "RelativeToolTip": "RecipeApp\\SearchByMaxCalories.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA3wCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T04:34:54.708Z",
+              "WhenOpened": "2024-06-27T08:35:51.781Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StepsDetails.xaml",
-              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\StepsDetails.xaml",
-              "RelativeDocumentMoniker": "RecipeApp\\StepsDetails.xaml",
-              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\StepsDetails.xaml",
-              "RelativeToolTip": "RecipeApp\\StepsDetails.xaml",
+              "DocumentIndex": 23,
+              "Title": "SearchByMaxCalories.xaml",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\SearchByMaxCalories.xaml",
+              "RelativeDocumentMoniker": "RecipeApp\\SearchByMaxCalories.xaml",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\SearchByMaxCalories.xaml",
+              "RelativeToolTip": "RecipeApp\\SearchByMaxCalories.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-26T04:31:39.7Z",
+              "WhenOpened": "2024-06-27T08:32:07.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchByFoodGroup.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\SearchByFoodGroup.xaml.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\SearchByFoodGroup.xaml.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\SearchByFoodGroup.xaml.cs",
+              "RelativeToolTip": "RecipeApp\\SearchByFoodGroup.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:22:11.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SearchByFoodGroup.xaml",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\SearchByFoodGroup.xaml",
+              "RelativeDocumentMoniker": "RecipeApp\\SearchByFoodGroup.xaml",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\SearchByFoodGroup.xaml",
+              "RelativeToolTip": "RecipeApp\\SearchByFoodGroup.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-27T08:20:31.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IngredientDetails.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\IngredientDetails.xaml.cs",
-              "RelativeDocumentMoniker": "RecipeApp\\IngredientDetails.xaml.cs",
-              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\IngredientDetails.xaml.cs",
-              "RelativeToolTip": "RecipeApp\\IngredientDetails.xaml.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Title": "Search.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\Search.xaml.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\Search.xaml.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\Search.xaml.cs",
+              "RelativeToolTip": "RecipeApp\\Search.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAkwDoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T21:59:35.619Z",
+              "WhenOpened": "2024-06-27T07:45:37.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IngredientDetails.xaml",
-              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\IngredientDetails.xaml",
-              "RelativeDocumentMoniker": "RecipeApp\\IngredientDetails.xaml",
-              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\IngredientDetails.xaml",
-              "RelativeToolTip": "RecipeApp\\IngredientDetails.xaml",
+              "DocumentIndex": 18,
+              "Title": "Search.xaml",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\Search.xaml",
+              "RelativeDocumentMoniker": "RecipeApp\\Search.xaml",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\Search.xaml",
+              "RelativeToolTip": "RecipeApp\\Search.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-25T21:43:54.438Z",
+              "WhenOpened": "2024-06-27T07:38:41.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "InputValidation.cs",
-              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\InputValidation.cs",
-              "RelativeDocumentMoniker": "RecipeApp\\InputValidation.cs",
-              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\InputValidation.cs",
-              "RelativeToolTip": "RecipeApp\\InputValidation.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAACQAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T19:39:47.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EnterRecipe.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\EnterRecipe.xaml.cs",
-              "RelativeDocumentMoniker": "RecipeApp\\EnterRecipe.xaml.cs",
-              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\EnterRecipe.xaml.cs",
-              "RelativeToolTip": "RecipeApp\\EnterRecipe.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T19:36:57.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EnterRecipe.xaml",
-              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\EnterRecipe.xaml",
-              "RelativeDocumentMoniker": "RecipeApp\\EnterRecipe.xaml",
-              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\EnterRecipe.xaml",
-              "RelativeToolTip": "RecipeApp\\EnterRecipe.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-25T19:12:42.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RecipeManager.cs",
-              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\RecipeManager.cs",
-              "RelativeDocumentMoniker": "RecipeApp\\RecipeManager.cs",
-              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\RecipeManager.cs",
-              "RelativeToolTip": "RecipeApp\\RecipeManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T19:09:23.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Recipe.cs",
-              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\Recipe.cs",
-              "RelativeDocumentMoniker": "RecipeApp\\Recipe.cs",
-              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\Recipe.cs",
-              "RelativeToolTip": "RecipeApp\\Recipe.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAApwBsAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T19:08:54.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 25,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\App.xaml",
               "RelativeDocumentMoniker": "RecipeApp\\App.xaml",
               "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\App.xaml",
               "RelativeToolTip": "RecipeApp\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-25T19:02:50.345Z",
+              "WhenOpened": "2024-06-26T21:17:48.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StepsDetails.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\StepsDetails.xaml.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\StepsDetails.xaml.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\StepsDetails.xaml.cs",
+              "RelativeToolTip": "RecipeApp\\StepsDetails.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:33:32.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StepsDetails.xaml",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\StepsDetails.xaml",
+              "RelativeDocumentMoniker": "RecipeApp\\StepsDetails.xaml",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\StepsDetails.xaml",
+              "RelativeToolTip": "RecipeApp\\StepsDetails.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T18:33:30.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InputValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\InputValidation.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\InputValidation.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\InputValidation.cs",
+              "RelativeToolTip": "RecipeApp\\InputValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:22:54.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "resetRecipe.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\resetRecipe.xaml.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\resetRecipe.xaml.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\resetRecipe.xaml.cs",
+              "RelativeToolTip": "RecipeApp\\resetRecipe.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:58:06.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "resetRecipe.xaml",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\resetRecipe.xaml",
+              "RelativeDocumentMoniker": "RecipeApp\\resetRecipe.xaml",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\resetRecipe.xaml",
+              "RelativeToolTip": "RecipeApp\\resetRecipe.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T13:56:45.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\Recipe.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\Recipe.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\Recipe.cs",
+              "RelativeToolTip": "RecipeApp\\Recipe.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAIwHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:09:17.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scale.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\Scale.xaml.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\Scale.xaml.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\Scale.xaml.cs",
+              "RelativeToolTip": "RecipeApp\\Scale.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:58:08.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Scale.xaml",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\Scale.xaml",
+              "RelativeDocumentMoniker": "RecipeApp\\Scale.xaml",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\Scale.xaml",
+              "RelativeToolTip": "RecipeApp\\Scale.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T11:57:12.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RecipeManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\RecipeManager.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\RecipeManager.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\RecipeManager.cs",
+              "RelativeToolTip": "RecipeApp\\RecipeManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:09:50.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClearRecipe.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\ClearRecipe.xaml.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\ClearRecipe.xaml.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\ClearRecipe.xaml.cs",
+              "RelativeToolTip": "RecipeApp\\ClearRecipe.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwCYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:30:32.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClearRecipe.xaml",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\ClearRecipe.xaml",
+              "RelativeDocumentMoniker": "RecipeApp\\ClearRecipe.xaml",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\ClearRecipe.xaml",
+              "RelativeToolTip": "RecipeApp\\ClearRecipe.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T08:29:28.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnterRecipe.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\EnterRecipe.xaml.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\EnterRecipe.xaml.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\EnterRecipe.xaml.cs",
+              "RelativeToolTip": "RecipeApp\\EnterRecipe.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:22:11.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EnterRecipe.xaml",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\EnterRecipe.xaml",
+              "RelativeDocumentMoniker": "RecipeApp\\EnterRecipe.xaml",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\EnterRecipe.xaml",
+              "RelativeToolTip": "RecipeApp\\EnterRecipe.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T08:22:07.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IngredientDetails.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\IngredientDetails.xaml.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\IngredientDetails.xaml.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\IngredientDetails.xaml.cs",
+              "RelativeToolTip": "RecipeApp\\IngredientDetails.xaml.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAYwHgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:08:08.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RecipeApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAiwEwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:01:17.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "RecipeApp\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\MainWindow.xaml",
               "RelativeToolTip": "RecipeApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-25T18:31:08.831Z",
+              "WhenOpened": "2024-06-26T08:01:14.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "RecipeApp\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\MainWindow.xaml.cs",
-              "RelativeToolTip": "RecipeApp\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAowCMAAAAJAAAA",
+              "DocumentIndex": 13,
+              "Title": "Display.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\Display.xaml.cs",
+              "RelativeDocumentMoniker": "RecipeApp\\Display.xaml.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\Display.xaml.cs",
+              "RelativeToolTip": "RecipeApp\\Display.xaml.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAgwCwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T18:31:05.741Z",
+              "WhenOpened": "2024-06-26T07:57:17.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "RecipeApp\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\AssemblyInfo.cs",
-              "RelativeToolTip": "RecipeApp\\AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T19:12:48.565Z"
+              "Title": "IngredientDetails.xaml",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\IngredientDetails.xaml",
+              "RelativeDocumentMoniker": "RecipeApp\\IngredientDetails.xaml",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\IngredientDetails.xaml",
+              "RelativeToolTip": "RecipeApp\\IngredientDetails.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T07:57:11.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Display.xaml",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\Display.xaml",
+              "RelativeDocumentMoniker": "RecipeApp\\Display.xaml",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\RecipeAppPOE\\RecipeApp\\Display.xaml",
+              "RelativeToolTip": "RecipeApp\\Display.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T07:56:58.919Z",
+              "EditorCaption": ""
             }
           ]
         },

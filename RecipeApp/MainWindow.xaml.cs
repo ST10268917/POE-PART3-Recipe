@@ -34,5 +34,47 @@ namespace RecipeApp
             EnterRecipe enterRecipe = new EnterRecipe();
             enterRecipe.Show();
         }
+
+        private void displayRecipeButton_Click(object sender, RoutedEventArgs e)
+        {
+            Display recipeDisplay = new Display();
+            recipeDisplay.Show();
+        }
+
+        private void clearButton_Click(object sender, RoutedEventArgs e)
+        {
+            ClearRecipe clearRecipe = new ClearRecipe();
+            clearRecipe.Show();
+        }
+
+        private void scaleRecipeButton_Click(object sender, RoutedEventArgs e)
+        {
+            Scale scaleRecipe = new Scale();
+            scaleRecipe.Show();
+        }
+
+        private void resetButton_Click(object sender, RoutedEventArgs e)
+        {
+            resetRecipe reset = new resetRecipe();
+            reset.Show();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Search searchByIngredient = new Search();
+            searchByIngredient.Show();
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            SearchByFoodGroup searchByFoodGroup = new SearchByFoodGroup();
+            searchByFoodGroup.Show();
+        }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            SearchByMaxCalories searchByMaxCalories = new SearchByMaxCalories();
+            searchByMaxCalories.Show();
+        }
     }
 }
